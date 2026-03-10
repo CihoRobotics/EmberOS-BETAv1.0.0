@@ -188,4 +188,4 @@ If you like this project, please **star the repo** and **share it**! It helps mo
 
 ---
 
-*EmberOS — The world's cheapest computer. Built with passion. 🔥*
+*EmberOS — The world's cheapest computer web UI based OS. Built with passion. 🔥*
