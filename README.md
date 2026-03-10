@@ -1,6 +1,6 @@
 # 🔥 EmberOS — A Full Browser-Based OS on a $1 ESP32
 
-> **A professional UI Operating System that runs entirely on a $1 ESP32 chip — no PC, no server, no internet needed.**
+> **A professional UI Operating System that runs entirely on a $1 ESP32 chip — local, no server, no internet needed.**
 
 ![EmberOS](https://img.shields.io/badge/Platform-ESP32-red?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0--BETA-orange?style=for-the-badge)
