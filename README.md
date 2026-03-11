@@ -135,7 +135,7 @@ Install these from **Arduino Library Manager**:
 4. Open `EmberOS.ino` in Arduino IDE
 5. Select your ESP32 board under `Tools → Board`
 6. Upload the code
-7. Connect to WiFi: **`ESP32_OS`** / Password: **`12345678`**
+7. Connect to WiFi: **`EmberOS`** / Password: **`12345678`**
 8. Open your browser and go to **`192.168.4.1`**
 
 ---
