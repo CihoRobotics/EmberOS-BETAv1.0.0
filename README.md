@@ -198,7 +198,7 @@ Also, I've needed too much time for this project. Please suport me / subcribe an
 
 ## 🛑 Stop!
 
-Don't forget that this project is the first DEMO and BETA version of the real Ember OS. There can be unexpected bugs, and we will try to repair them. 😎
+Don't forget that this project is the first DEMO and BETA version of the real Ember OS. There can be unexpected bugs, and we will try to repair them. Also, Ember OS is an experimental web-based operating enviroment for ESP32 😎
 
 ---
 
